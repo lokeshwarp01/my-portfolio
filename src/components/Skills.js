@@ -1,5 +1,5 @@
 import React from 'react';
-import skills from '../data/Skills';
+import skills from '../data/SkillsData';
 import './Skills.css'
 
 export default function Skills() {
