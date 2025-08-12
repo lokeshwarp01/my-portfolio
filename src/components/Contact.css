@@ -105,15 +105,15 @@
   #Contact {
     padding: 3rem 1rem;
   }
-  
+
   #Contact h2 {
     font-size: 2rem;
   }
-  
+
   .contact-form {
     padding: 1.5rem;
   }
-  
+
   .submit-btn {
     max-width: 100%;
   }
@@ -123,7 +123,7 @@
   .contact-form {
     padding: 1.25rem;
   }
-  
+
   .contact-form input,
   .contact-form textarea {
     padding: 0.8rem;

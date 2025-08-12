@@ -23,8 +23,8 @@ export default function Contact() {
           <p>Thank you! Your message has been sent.</p>
         </div>
       ) : (
-        <form 
-          action="https://formspree.io/f/myzpowwa" 
+        <form
+          action="https://formspree.io/f/myzpowwa"
           method="POST"
           className="contact-form"
           onSubmit={handleSubmit}

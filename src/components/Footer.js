@@ -11,7 +11,7 @@ export default function Footer() {
                         <h3>PANUGANTI LOKESHWAR</h3>
                         <p>Front-End Developer</p>
                     </div>
-
+                    
                     <div className="footer-contact">
                         <h4>Get In Touch</h4>
                         <ul>

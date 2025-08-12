@@ -46,7 +46,7 @@ export default function About() {
               <p className="duration">Guntur,Andhra Pradesh ,522006</p>
             </div>
           </div>
-          
+
         </div>
       </div>
     </section>
