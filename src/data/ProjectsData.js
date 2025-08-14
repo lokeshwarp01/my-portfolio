@@ -1,13 +1,13 @@
 const projects = [
   {
-    title: 'Weather App',
-    desc: 'Live weather data using OpenWeatherMap API.',
-    repo: 'https://github.com/yourname/weather-app',
-    demo: 'https://weather.yourdomain.dev'
+    title: 'meshop (E-Commerce)',
+    desc: 'E-Commerce application built with REACT JS,JavaScript,CSS.',
+    repo: 'https://github.com/lokeshwarp01/meshop.git',
+    demo: 'https://lokeshwarp01.github.io/meshop/'
   },
   {
-    title: 'Task Manager',
-    desc: 'Full-stack MERN CRUD application.',
+    title: 'LMS (learning management System)',
+    desc: 'A web-based learning management system built with REACT JS,JavaScript,CSS.',
     repo: 'https://github.com/yourname/task-manager',
     demo: 'https://tasks.yourdomain.dev'
   }
