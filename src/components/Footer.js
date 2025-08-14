@@ -26,7 +26,7 @@ export default function Footer() {
                                 </a>
                             </li>
                             <li>
-                                <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">
+                                <a href="https://github.com/lokeshwarp01" target="_blank" rel="noopener noreferrer">
                                     <FaGithub />My Github
                                 </a>
                             </li>
